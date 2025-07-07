@@ -1,5 +1,7 @@
 # Smart-Chatbot-
+
 **Preview
+
 You: Hello!
 Chatbot: Hello! How can I help you today?
 
@@ -28,5 +30,6 @@ Chatbot: Goodbye! Have a nice day.
     iii.API key
 
 **Setup
+
 git clone https://github.com/your-username/smart-chatbot.git
 cd smart-chatbot
